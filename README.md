@@ -1,2 +1,2 @@
 # authentication andauthorization-API
-create authentication vs authorization API
+create authentication and authorization API
